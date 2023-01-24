@@ -1,4 +1,4 @@
-# hello-world02
+# hello-world02 significa alô mundo
 Repositório criado para a segunda atividade da trilha de aprendizado Github Philips
 
 # Mateus Reinert
